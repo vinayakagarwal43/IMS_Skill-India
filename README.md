@@ -1,2 +1,2 @@
 # IMS_Skill-India
-Assignment
+Assignment on Inventory Management System using Python.
